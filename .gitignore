@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+pictures/*
+*.tsv
+*/.DS_Store
